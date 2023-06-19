@@ -8,11 +8,11 @@ require_once("src/Models/Comunidad.php");
 $url = $_SERVER['SERVER_NAME'] . $_SERVER['REQUEST_URI'];
 
 $urlControl = array(
-    $_SERVER['SERVER_NAME'] . "/Ingenieria-Mecatronica/",
-    $_SERVER['SERVER_NAME'] . "/Ingenieria-Mecatronica/?option=0"
+    $_SERVER['SERVER_NAME'] . "/Ingenieria-Electronica/",
+    $_SERVER['SERVER_NAME'] . "/Ingenieria-Electronica/?option=0"
 );
 
-$carreraID = 6;
+$carreraID = 10;
 $conn = new Conexion();
 $conn->connect();
 $docente = new Docente();
@@ -39,7 +39,7 @@ $comunidad->setConnection($conn->getDB());
 
     <link rel="stylesheet" href="assets/css/bootstrap.css">
     <link rel="stylesheet" href="assets/style.css">
-    <title>Ingeniería Mecatrónica</title>
+    <title>Ingeniería Electrónica</title>
 </head>
 <?php
 include_once "src/View/header.php";
