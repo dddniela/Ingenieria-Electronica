@@ -215,22 +215,22 @@
       <div class="galleryContainer bg-light">
         <div class="row g-0">
           <div class="col-4 px-2">
-            <img class="img-fluid w-100 shadow-1-strong rounded m-2" src="img/Docentes-Electro/Doce1.jpg"
+            <img class="img-fluid w-100 shadow-1-strong rounded m-2" src="img/Docentes/blancaIrisZarateSantiago.jpg"
               alt="">
             <img class="img-fluid w-100 shadow-1-strong rounded m-2"
               src="img/Docentes-Electro/Doce2.jpg" alt="">
           </div>
 
           <div class="col-4 px-2">
-            <img class="img-fluid w-100 shadow-1-strong rounded m-2" src="img/Docentes-Electro/Doce3.jpg"
+            <img class="img-fluid w-100 shadow-1-strong rounded m-2" src="img/Docentes/joseDeJesusRomeroCastro.jpg"
               alt="">
-            <img class="img-fluid w-100 shadow-1-strong rounded m-2" src="img/Docentes-Electro/Doce4.jpg" alt="">
+            <img class="img-fluid w-100 shadow-1-strong rounded m-2" src="img/Docentes/joseLuisFernandoPalomequeLoyo.jpg" alt="">
           </div>
 
           <div class="col-4 px-2">
-            <img class="img-fluid w-100 shadow-1-strong rounded m-2" src="img/Docentes-Electro/Doce5.jpg"
+            <img class="img-fluid w-100 shadow-1-strong rounded m-2" src="img/Docentes/miguelAngelPerezSubeldia.jpg"
               alt="">
-            <img class="img-fluid w-100 shadow-1-strong rounded m-2" src="img/Docentes-Electro/Doce6.jpg"
+            <img class="img-fluid w-100 shadow-1-strong rounded m-2" src="img/Docentes/luisEduardoRodriguezMota.jpg"
               alt="">
           </div>
 
