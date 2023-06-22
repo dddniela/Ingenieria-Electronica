@@ -3,8 +3,8 @@
         <img class="w-100 img-fluid" src="img/PMapaCurri.jpg" alt="">
         <div class="position-absolute top-50 start-50 translate-middle w-100">
             <div class="d-flex flex-column justify-content-center align-items-center text-center">
-                <h1 class="fw-bold text-warning">Mapa Curricular</h1>
-                <h1 class="fw-bold text-light d-md-flex d-none">Ingeniería Electrónica</h1>
+                <h1 class="fw-bold text-warning shadow-text">Mapa Curricular</h1>
+                <h1 class="fw-bold text-light d-md-flex d-none shadow-text">Ingeniería Electrónica</h1>
             </div>
         </div>
     </div>

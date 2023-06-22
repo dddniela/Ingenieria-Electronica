@@ -4,8 +4,8 @@
     <img class="w-100 img-fluid" src="img/conocenos.jpg" alt="" />
     <div class="position-absolute top-50 start-50 translate-middle w-100">
       <div class="d-flex flex-column justify-content-center align-items-center text-center">
-        <h1 class="fw-bold text-warning">Conócenos</h1>
-        <h1 class="fw-bold text-light d-md-flex d-none">
+        <h1 class="fw-bold text-warning shadow-text">Conócenos</h1>
+        <h1 class="fw-bold text-light d-md-flex d-none shadow-text">
           Ingeniería Electronica
         </h1>
       </div>

@@ -13,8 +13,8 @@
         <img src="img/Electronica/img-Electronica1.png" class="d-block w-100 align-middle" width="100%" height="100%">
         <div class="container">
           <div class="carousel-caption d-flex flex-column">
-            <h1 class="mainTitle text-center font-bold m-2">Ingeniería Electrónica</h1>
-            <h2 class="mainSubtitle text-center font-bold">Desarrolla nuevos horizontes</h1>
+            <h1 class="mainTitle text-center font-bold m-2 shadow-text">Ingeniería Electrónica</h1>
+            <h2 class="mainSubtitle text-center font-bold shadow-text">Desarrolla nuevos horizontes</h1>
               <p><a class="mainButton btn font-bold d-none d-md-inline-flex" href="?option=3">Explorar</a>
               </p>
           </div>
@@ -25,8 +25,8 @@
         <img src="img/carrusel2.jpg" class="d-block w-100 align-middle" width="100%" height="100%">
         <div class="container">
           <div class="carousel-caption">
-            <h1 class="mainTitle text-center font-bold m-2">Ingeniería Electrónica</h1>
-            <h2 class="mainSubtitle text-center font-bold">Aprende nuevas tecnologías</h1>
+            <h1 class="mainTitle text-center font-bold m-2 shadow-text">Ingeniería Electrónica</h1>
+            <h2 class="mainSubtitle text-center font-bold shadow-text">Aprende nuevas tecnologías</h1>
               <p><a class="mainButton btn font-bold d-none d-md-inline-flex" href="?option=1">Explorar</a></p>
           </div>
         </div>
@@ -36,8 +36,8 @@
         <img src="img/carrusel3.jpg" class="d-block w-100 align-middle" width="100%" height="100%">
         <div class="container">
           <div class="carousel-caption">
-            <h1 class="mainTitle text-center font-bold m-2">Ingeniería Electrónica</h1>
-            <h2 class="mainSubtitle text-center font-bold d-none d-md-inline-flex">Colabora con la comunidad</h1>
+            <h1 class="mainTitle text-center font-bold m-2 shadow-text">Ingeniería Electrónica</h1>
+            <h2 class="mainSubtitle text-center font-bold d-none d-md-inline-flex shadow-text">Colabora con la comunidad</h1>
             <p><a class="mainButton btn font-bold d-none d-md-inline-flex" href="?option=5">Explorar</a></p>
           </div>
         </div>
@@ -61,7 +61,7 @@
   <div class="row px-2 g-0">
     <div class="col-lg-6 col-12 p-2 shadow-sm">
       <div class="d-flex justify-content-center align-items-center w-100 h-100">
-        <img class="img-fluid rounded" src="img/IBQ-IQ/IMG2.png" alt="">
+        <img class="img-fluid rounded" src="img/electronica.jpg" alt="">
       </div>
     </div>
 
@@ -289,7 +289,7 @@
     <div class="col-lg-4 col-sm-6 text-center p-3">
       <div class="area shadow-sm p-4 rounded-3">
         <a href="?option=5">
-          <img class="img-fluid w-90 shadow-1-strong rounded mb-4  p-1" src="img/comunidad.png" alt="">
+          <img class="img-fluid w-90 shadow-1-strong rounded mb-4  p-1" src="img/comunidad.webp" alt="">
         </a>
         <h3 class="areaTitle text-center font-bold text-xl">Comunidades</h3>
       </div>
@@ -384,13 +384,13 @@
             alt="">
         </div>
       </a>
-      <a class="mx-2" href="https://www.youtube.com/channel/UCYSUOZ6V9YRGviVvwaXOcjw" target="_blank"
+   <!--   <a class="mx-2" href="https://www.youtube.com/channel/UCYSUOZ6V9YRGviVvwaXOcjw" target="_blank"
           style="text-decoration: none;">
           <div class="d-flex flex-row justify-content-center">
             <img class="img-fluid shadow-1-strong rounded mb-4 p-1" style="height: 40px" src="img/iconos/youtube.PNG"
               alt="">
           </div>
-        </a>
+        </a>-->
     </div>
   </div>
 </section>

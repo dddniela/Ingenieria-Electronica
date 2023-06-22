@@ -4,8 +4,8 @@
         <img class="w-100 img-fluid" src="img/Electronica/logoitver.jpg" alt="">
         <div class="position-absolute top-50 start-50 translate-middle w-100">
             <div class="d-flex flex-column justify-content-center align-items-center text-center">
-                <h1 class="fw-bold text-warning">Perfil de Egreso</h1>
-                <h1 class="fw-bold text-light d-md-flex d-none">Ingeniería Electrónica</h1>
+                <h1 class="fw-bold text-warning shadow-text">Perfil de Egreso</h1>
+                <h1 class="fw-bold text-light d-md-flex d-none shadow-text">Ingeniería Electrónica</h1>
             </div>
         </div>
     </div>
@@ -247,7 +247,7 @@
                 <div class="row g-0">
                     <div class="col-md-4 px-2">
                         <a href="#!" data-bs-toggle="modal" data-bs-target="#modalImage1">
-                            <img class="img-fluid w-100 shadow-1-strong rounded mb-4" src="img/IMG_4446.webp" alt="">
+                            <img class="img-fluid w-100 shadow-1-strong rounded mb-4" src="img/comunidad.webp" alt="">
                         </a>
                         <a href="#!" data-bs-toggle="modal" data-bs-target="#modalImage2">
                             <img class="img-fluid w-100 shadow-1-strong rounded mb-4" src="img/Venus.webp" alt="">
@@ -311,7 +311,7 @@
 <div tabindex="-1" aria-labelledby="modalImage1" aria-hidden="true" class="modal fade" id="modalImage1">
     <div class="modal-dialog modal-lg modal-dialog-centered">
         <div class="modal-content bg-transparent text-white text-center">
-            <img src="img/IMG_4446.webp" alt="">
+            <img src="img/comunidad.webp" alt="">
             <p>Logo del Instituto Tecnológico de México Veracruz</p>
         </div>
     </div>
