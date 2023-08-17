@@ -4,6 +4,7 @@ require_once "Conexion.php";
 
 class Docente
 {
+    // Propiedades privadas de la clase
     private $docenteId;
     private $carreraId;
     private $nombre;
@@ -12,13 +13,15 @@ class Docente
     private $materias;
     private $contacto;
     private $urlImagen;
-    private $connection;
+    private $connection; // Objeto de conexión a la base de datos
 
+    // Métodos para establecer la conexión
     public function setConnection($conn)
     {
         $this->connection = $conn;
     }
 
+    // Métodos para configurar y obtener propiedades
     public function setId($docenteId)
     {
         $this->docenteId = $docenteId;
@@ -89,6 +92,7 @@ class Docente
         return $this->urlImagen;
     }
 
+    // Método para obtener docentes
     public function getDocentes()
     {
         $docentes = array();
@@ -97,11 +101,12 @@ class Docente
         INNER JOIN tbl_carrera_docente AS tbl_carrera_docente
         ON tbl_docente.docenteId = tbl_carrera_docente.docenteId
         AND tbl_carrera_docente.status = 1 
-        AND tbl_carrera_docente.carreraId=" . $GLOBALS['carreraID'] . " WHERE tbl_docente.status = 1;";
+        AND tbl_carrera_docente.carreraId=" . $GLOBALS['carreraID'] . " WHERE tbl_docente.status = 1;"; // Consulta SQL para obtener información de docentes
         $docentes = mysqli_query($this->connection, $sql);
         return $docentes;
     }
 
+    // Métodos para obtener información detallada y generar paginación
     function obtenerInformacion($limiteInferior)
     {
         $cn = $this->connection;

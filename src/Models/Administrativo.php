@@ -3,19 +3,21 @@
 require_once "Conexion.php";
 
 class Administrativo
-{
+{// Propiedades privadas de la clase
     private $administrativoId;
     private $puestoId;
     private $nombre;
     private $descripcion;
     private $imagen;
-    private $connection;
+    private $connection;  // Objeto de conexión a la base de datos
 
+    // Métodos para establecer la conexión
     public function setConnection($conn)
     {
         $this->connection = $conn;
     }
 
+    // Métodos para obtener información de administrativos y puestos
     public function getAdministrativos()
     {
         $cn = $this->connection;

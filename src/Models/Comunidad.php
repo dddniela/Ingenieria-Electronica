@@ -4,6 +4,7 @@ require_once "Conexion.php";
 
 class Comunidad
 {
+    // Propiedades privadas de la clase
     private $comunidadId;
     private $carreraId;
     private $nombre;
@@ -11,13 +12,15 @@ class Comunidad
     private $quienesSomos;
     private $queHacemos;
     private $fotosComunidad;
-    private $connection;
+    private $connection; // Objeto de conexión a la base de datos
 
+    // Métodos para establecer la conexión
     public function setConnection($conn)
     {
         $this->connection = $conn;
     }
 
+    // Métodos para configurar y obtener propiedades
     public function setId($comunidadId)
     {
         $this->comunidadId = $comunidadId;
@@ -67,7 +70,8 @@ class Comunidad
     {
         return $this->queHacemos;
     }
-
+    
+   // Método para obtener información de comunidades
     public function getComunidades()
     {
         $cn = $this->connection;
@@ -76,6 +80,7 @@ class Comunidad
         return $comunidades;
     }
 
+    // Método para imprimir datos de las comunidades
     function imprimirDatos()
     {
         $ResultSet = $this->getComunidades();

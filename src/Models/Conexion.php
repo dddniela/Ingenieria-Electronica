@@ -9,6 +9,7 @@
     {
         private $db;
 
+        // Método para establecer la conexión
         public function connect()
         {
             try {
@@ -22,6 +23,7 @@
             }
         }
 
+        // Métodos para obtener y establecer la conexión
         public function getDB()
         {
             return $this->db;
