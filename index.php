@@ -27,7 +27,7 @@ $docente = new Docente();
 $docente->setConnection($conn->getDB());
 
 $materia = new Materia();
-$materia->setConnection($conn->getDB());Z
+$materia->setConnection($conn->getDB());
 
 $especialidad = new Especialidad();
 $especialidad->setConnection($conn->getDB());
