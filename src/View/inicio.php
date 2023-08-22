@@ -59,20 +59,23 @@
 <!-- Razones para estudiar la carrera -->
 <section class="p-2">
   <div class="row px-2 g-0">
+    <!-- Columna de la izquierda con una imagen -->
     <div class="col-lg-6 col-12 p-2 shadow-sm">
       <div class="d-flex justify-content-center align-items-center w-100 h-100">
         <img class="img-fluid rounded" src="img/electronica.jpg" alt="">
       </div>
     </div>
-
+    <!-- Columna de la derecha con texto explicativo -->
     <div class="lightSection col-lg-6 col-12 p-4">
       <div class="d-flex justify-content-center align-items-center w-100 h-100">
         <div class="row g-0">
           <div class="col-12">
+            <!-- Título de la sección -->
             <h2 class="sectionTitle text-center font-bold m-3">¿Por qué estudiar Ingeniería Electrónica?</h2>
             <div class="sectionSeparator"></div>
           </div>
           <div class="col-12" style="text-align: center;">
+          <!-- Párrafo de texto justificado que explica las razones -->
             <p style="text-align: justify;"> 
               Estudiar Ingeniería Electrónica ofrece la oportunidad de sumergirse en el 
               mundo de la tecnología, desarrollar habilidades en diseño, análisis y desarrollo 
@@ -80,6 +83,7 @@
               como la automotriz, de telecomunicaciones, energética y de dispositivos médicos, 
               entre otras.
             </p>
+            <!-- Botón que enlaza a otra página para obtener más información -->
             <a class="btn btn-warning font-bold" href="?option=3" role="button">¡Saber más!</a>
           </div>
         </div>
@@ -91,11 +95,13 @@
 
 <!-- Areas de aprendizaje -->
 <section class="lightSection bg-light p-2">
+  <!-- Título de la sección -->
   <h2 class="sectionTitle text-center font-bold m-3">Áreas de aprendizaje</h2>
-  <div class="sectionSeparator"></div>
+  <div class="sectionSeparator"></div> <!-- Línea separadora -->
 
+  <!-- Contenedor de las áreas de aprendizaje -->
   <div class="row g-0">
-
+   
     <div class="col-lg-4 col-sm-6 text-center p-3">
       <div class="area shadow-sm p-4">
         <a href="?option=3.php">
@@ -171,16 +177,20 @@
 
 <!-- Instalaciones -->
 <section class="darkSection bg-dark p-2 px-4">
+   <!-- Contenedor principal de la sección -->
   <div class="row mb-4 px-2 g-0">
 
+    <!-- Columna izquierda: Descripción de las instalaciones -->
     <div class="col-lg-6 col-12 py-4">
       <div class="d-flex justify-content-center align-items-center w-100 h-100">
         <div class="row g-0">
           <div class="col-12">
+            <!-- Título de la sección -->
             <h2 class="titleDarkSection text-center font-bold m-3">Instalaciones</h2>
-            <div class="darkSectionSeparator"></div>
+            <div class="darkSectionSeparator"></div>  <!-- Línea separadora -->
           </div>
           <div class="col-12 px-4" style="text-align: center;">
+          <!-- Descripción de las instalaciones -->
             <p class="text-light" style="text-align: justify;">
               El Departamento de Ingeniería Electrica - Electronica cuenta con diversos laboratorios 
               que son espacios esenciales para el aprendizaje práctico de los estudiantes, donde 
@@ -191,12 +201,13 @@
               desarrollar habilidades técnicas y experimentar con tecnologías avanzadas 
               en el campo de la electrónica.
             </p>
+            <!-- Botón para explorar más sobre las instalaciones -->
             <a class="btn btn-warning font-bold" href="?option=4" role="button">¡Explorar!</a>
           </div>
         </div>
       </div>
     </div>
-
+    <!-- Columna derecha: Imagen de las instalaciones -->
     <div class="col-lg-6 col-12 p-4 shadow-sm">
       <div class="d-flex justify-content-center align-items-center w-100 h-100">
         <img class="img-fluid rounded" src="img/Electronica/instalaciones2.jpg" alt="">
@@ -210,7 +221,7 @@
 <!-- Comunidad docente  -->
 <section class="p-2 bg-light">
   <div class="row px-2 g-0">
-
+    <!-- Columna izquierda con imágenes de profesores -->
     <div class="col-lg-6 col-sm-12">
       <div class="galleryContainer bg-light">
         <div class="row g-0">
@@ -237,7 +248,7 @@
         </div>
       </div>
     </div>
-
+<!-- Columna derecha con información sobre la comunidad docente -->
     <div class="lightSection col-lg-6 col-12 px-4">
       <div class="d-flex justify-content-center align-items-center w-100 h-100">
         <div class="row g-0">
@@ -266,8 +277,10 @@
   <h2 class="sectionTitle text-center font-bold m-3">Enlaces</h2>
   <div class="sectionSeparator"></div>
 
+  <!-- Row que contiene los enlaces -->
   <div class="row g-0">
 
+   <!-- Primer enlace -->
     <div class="col-lg-4 col-sm-6 text-center p-3">
       <div class="area shadow-sm p-4 rounded-3">
         <a href="http://gestion.itver.edu.mx/servicio-social/" target="_blank" >
@@ -277,6 +290,7 @@
       </div>
     </div>
 
+    <!-- Segundo enlace -->
     <div class="col-lg-4 col-sm-6 text-center p-3">
       <div class="area shadow-sm p-4 rounded-3">
         <a href="http://www.veracruz.tecnm.mx/" target="_blank" >
@@ -286,6 +300,7 @@
       </div>
     </div>
 
+    <!-- Tercer enlace -->
     <div class="col-lg-4 col-sm-6 text-center p-3">
       <div class="area shadow-sm p-4 rounded-3">
         <a href="?option=5">
@@ -301,7 +316,7 @@
 </section>
 <!-- Fin Enlaces ->
 
-<!-- Área de redes sociales -->
+<!- Área de redes sociales -->
 <section class="lightSection p-2 g-0">
   <div class="row g-0">
     <div class="col">
