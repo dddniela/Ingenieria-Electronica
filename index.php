@@ -16,7 +16,7 @@ $urlControl = array(
 );
 
 // ID de la carrera
-$carreraID = 10;
+$programaId = 10;
 
 // Se crea una instancia de la clase Conexion
 $conn = new Conexion();
