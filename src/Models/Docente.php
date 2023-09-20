@@ -6,7 +6,7 @@ class Docente
 {
     // Propiedades privadas de la clase
     private $docenteId;
-    private $carreraId;
+    private $programaId;
     private $nombre;
     private $descripcion;
     private $informacionAcademica;
@@ -98,10 +98,10 @@ class Docente
         $docentes = array();
         $sql = "SELECT tbl_docente.docenteId, tbl_docente.nombre, tbl_docente.descripcion, tbl_docente.informacionAcademica,
         tbl_docente.materias, tbl_docente.contacto, tbl_docente.urlImagen FROM tbl_docente AS tbl_docente
-        INNER JOIN tbl_carrera_docente AS tbl_carrera_docente
-        ON tbl_docente.docenteId = tbl_carrera_docente.docenteId
-        AND tbl_carrera_docente.status = 1 
-        AND tbl_carrera_docente.carreraId=" . $GLOBALS['carreraID'] . " WHERE tbl_docente.status = 1;"; // Consulta SQL para obtener información de docentes
+        INNER JOIN tbl_programa_docente AS tbl_programa_docente
+        ON tbl_docente.docenteId = tbl_programa_docente.docenteId
+        AND tbl_programa_docente.status = 1 
+        AND tbl_programa_docente.programaId=" . $GLOBALS['programaId'] . " WHERE tbl_docente.status = 1;"; // Consulta SQL para obtener información de docentes
         $docentes = mysqli_query($this->connection, $sql);
         return $docentes;
     }
@@ -112,10 +112,10 @@ class Docente
         $cn = $this->connection;
         $stmt = $cn->prepare("SELECT tbl_docente.docenteId, tbl_docente.nombre, tbl_docente.descripcion, tbl_docente.informacionAcademica,
         tbl_docente.materias, tbl_docente.contacto, tbl_docente.urlImagen FROM tbl_docente AS tbl_docente
-        INNER JOIN tbl_carrera_docente AS tbl_carrera_docente
-        ON tbl_docente.docenteId = tbl_carrera_docente.docenteId
-        AND tbl_carrera_docente.status = 1 
-        AND tbl_carrera_docente.carreraId=" . $GLOBALS['carreraID']
+        INNER JOIN tbl_programa_docente AS tbl_programa_docente
+        ON tbl_docente.docenteId = tbl_programa_docente.docenteId
+        AND tbl_programa_docente.status = 1 
+        AND tbl_programa_docente.programaId=" . $GLOBALS['programaId']
             . " WHERE tbl_docente.status = 1  ORDER BY nombre ASC LIMIT ?,?");
         $limiteInferior =  $limiteInferior - 1;
         $limiteSuperior =  12;
