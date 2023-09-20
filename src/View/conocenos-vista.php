@@ -281,27 +281,15 @@ $jefeDepartamento =  $administrativos->getJefeDepartamento();
             <div class="galleryContainer bg-light">
                 <div class="row g-0">
                     <div class="col-md-4 px-2">
-                        <a href="#!" data-bs-toggle="modal" data-bs-target="#modalImage1">
-                            <img class="img-fluid w-100 shadow-1-strong rounded mb-4" src="img/conocenos/1.JPG" alt="">
-                        </a>
-                        <a href="#!" data-bs-toggle="modal" data-bs-target="#modalImage2">
-                            <img class="img-fluid w-100 shadow-1-strong rounded mb-4" src="img/conocenos/2.JPG" alt="">
-                        </a>
-                      <!--  <a href="#!" data-bs-toggle="modal" data-bs-target="#modalImage3">
-                            <img class="img-fluid w-100 shadow-1-strong rounded mb-4" src="img/conocenos/3.JPG" alt="">
-                        </a> -->
-                    </div>
-
-                    <div class="col-md-4 px-2">
-                        <a href="#!" data-bs-toggle="modal" data-bs-target="#modalImage4">
-                            <img class="img-fluid w-100 shadow-1-strong rounded mb-4" src="img/conocenos/4.JPG" alt="">
-                        </a>
                         <a href="#!" data-bs-toggle="modal" data-bs-target="#modalImage5">
                             <img class="img-fluid w-100 shadow-1-strong rounded mb-4" src="img/conocenos/5.JPG" alt="">
                         </a>
                         <a href="#!" data-bs-toggle="modal" data-bs-target="#modalImage6">
                             <img class="img-fluid w-100 shadow-1-strong rounded mb-4" src="img/conocenos/6.JPG" alt="">
                         </a>
+                      <!--  <a href="#!" data-bs-toggle="modal" data-bs-target="#modalImage3">
+                            <img class="img-fluid w-100 shadow-1-strong rounded mb-4" src="img/conocenos/3.JPG" alt="">
+                        </a> -->
                     </div>
 
                     <div class="col-md-4 px-2">
@@ -316,6 +304,18 @@ $jefeDepartamento =  $administrativos->getJefeDepartamento();
                         </a>
                     </div>
 
+                    <div class="col-md-4 px-2">
+                        <a href="#!" data-bs-toggle="modal" data-bs-target="#modalImage10">
+                            <img class="img-fluid w-100 shadow-1-strong rounded mb-4" src="img/conocenos/10.JPG" alt="">
+                        </a>
+                        <a href="#!" data-bs-toggle="modal" data-bs-target="#modalImage11">
+                            <img class="img-fluid w-100 shadow-1-strong rounded mb-4" src="img/conocenos/11.JPG" alt="">
+                        </a>
+                        <a href="#!" data-bs-toggle="modal" data-bs-target="#modalImage12">
+                            <img class="img-fluid w-100 shadow-1-strong rounded mb-4" src="img/conocenos/12.JPG" alt="">
+                        </a>
+                    </div>
+
                 </div>
             </div>
         </div>
@@ -324,11 +324,11 @@ $jefeDepartamento =  $administrativos->getJefeDepartamento();
             <div class="galleryContainer bg-light">
                 <div class="row g-0">
                     <div class="col-12 px-2">
-                        <a href="#!" data-bs-toggle="modal" data-bs-target="#modalImage10">
-                            <img class="img-fluid w-100 shadow-1-strong rounded mb-4" src="img/conocenos/10.JPG" alt="">
+                        <a href="#!" data-bs-toggle="modal" data-bs-target="#modalImage13">
+                            <img class="img-fluid w-100 shadow-1-strong rounded mb-4" src="img/conocenos/13.JPG" alt="">
                         </a>
-                        <a href="#!" data-bs-toggle="modal" data-bs-target="#modalImage11">
-                            <img class="img-fluid w-100 shadow-1-strong rounded mb-4" src="img/conocenos/11.JPG" alt="">
+                        <a href="#!" data-bs-toggle="modal" data-bs-target="#modalImage14">
+                            <img class="img-fluid w-100 shadow-1-strong rounded mb-4" src="img/conocenos/14.JPG" alt="">
                         </a>
                     </div>
 
@@ -343,19 +343,19 @@ $jefeDepartamento =  $administrativos->getJefeDepartamento();
 
 
 <!-- Modals de la galería-->
-<div tabindex="-1" aria-labelledby="modalImage1" aria-hidden="true" class="modal fade" id="modalImage1">
-    <div class="modal-dialog modal-lg modal-dialog-centered">
+<div tabindex="-1" aria-labelledby="modalImage5" aria-hidden="true" class="modal fade" id="modalImage5">
+    <div class="modal-dialog modal-sm modal-dialog-centered">
         <div class="modal-content bg-transparent text-white text-center">
-            <img src="img/conocenos/1.JPG" alt="">
+            <img src="img/conocenos/5.JPG" alt="">
             <p>Logo del Instituto Tecnológico de México Veracruz</p>
         </div>
     </div>
 </div>
 
-<div tabindex="-1" aria-labelledby="modalImage2" aria-hidden="true" class="modal fade" id="modalImage2">
+<div tabindex="-1" aria-labelledby="modalImage6" aria-hidden="true" class="modal fade" id="modalImage6">
     <div class="modal-dialog modal-lg modal-dialog-centered">
         <div class="modal-content bg-transparent text-white text-center">
-            <img src="img/conocenos/2.JPG" alt="">
+            <img src="img/conocenos/6.JPG" alt="">
             <p>Estatua Venus</p>
         </div>
     </div>
@@ -370,38 +370,11 @@ $jefeDepartamento =  $administrativos->getJefeDepartamento();
     </div>
 </div>-->
 
-<div tabindex="-1" aria-labelledby="modalImage4" aria-hidden="true" class="modal fade" id="modalImage4">
-    <div class="modal-dialog modal-lg modal-dialog-centered">
-        <div class="modal-content bg-transparent text-white text-center">
-            <img src="img/conocenos/4.JPG" alt="">
-            <p>Sala de circuitos</p>
-        </div>
-    </div>
-</div>
-
-<div tabindex="-1" aria-labelledby="modalImage5" aria-hidden="true" class="modal fade" id="modalImage5">
-    <div class="modal-dialog modal-lg modal-dialog-centered">
-        <div class="modal-content bg-transparent text-white text-center">
-            <img src="img/conocenos/5.JPG" alt="">
-            <p>Salón ubicado en el edificio B</p>
-        </div>
-    </div>
-</div>
-
-<div tabindex="-1" aria-labelledby="modalImage6" aria-hidden="true" class="modal fade" id="modalImage6">
-    <div class="modal-dialog modal-lg modal-dialog-centered">
-        <div class="modal-content bg-transparent text-white text-center">
-            <img src="img/conocenos/6.JPG" alt="">
-            <p>Interior del edificio T (Planta Baja)</p>
-        </div>
-    </div>
-</div>
-
 <div tabindex="-1" aria-labelledby="modalImage7" aria-hidden="true" class="modal fade" id="modalImage7">
     <div class="modal-dialog modal-lg modal-dialog-centered">
         <div class="modal-content bg-transparent text-white text-center">
             <img src="img/conocenos/7.JPG" alt="">
-            <p>Placa del laboratorio de Ingeniería Electrónica</p>
+            <p>Sala de circuitos</p>
         </div>
     </div>
 </div>
@@ -410,7 +383,7 @@ $jefeDepartamento =  $administrativos->getJefeDepartamento();
     <div class="modal-dialog modal-lg modal-dialog-centered">
         <div class="modal-content bg-transparent text-white text-center">
             <img src="img/conocenos/8.JPG" alt="">
-            <p>Edificio M</p>
+            <p>Salón ubicado en el edificio B</p>
         </div>
     </div>
 </div>
@@ -419,7 +392,7 @@ $jefeDepartamento =  $administrativos->getJefeDepartamento();
     <div class="modal-dialog modal-lg modal-dialog-centered">
         <div class="modal-content bg-transparent text-white text-center">
             <img src="img/conocenos/9.JPG" alt="">
-            <p>Interior del Edificio T</p>
+            <p>Interior del edificio T (Planta Baja)</p>
         </div>
     </div>
 </div>
@@ -428,7 +401,7 @@ $jefeDepartamento =  $administrativos->getJefeDepartamento();
     <div class="modal-dialog modal-lg modal-dialog-centered">
         <div class="modal-content bg-transparent text-white text-center">
             <img src="img/conocenos/10.JPG" alt="">
-            <p>Edificio T: Edificio de Ingeniería Electrónica</p>
+            <p>Placa del laboratorio de Ingeniería Electrónica</p>
         </div>
     </div>
 </div>
@@ -437,6 +410,33 @@ $jefeDepartamento =  $administrativos->getJefeDepartamento();
     <div class="modal-dialog modal-lg modal-dialog-centered">
         <div class="modal-content bg-transparent text-white text-center">
             <img src="img/conocenos/11.JPG" alt="">
+            <p>Edificio M</p>
+        </div>
+    </div>
+</div>
+
+<div tabindex="-1" aria-labelledby="modalImage12" aria-hidden="true" class="modal fade" id="modalImage12">
+    <div class="modal-dialog modal-lg modal-dialog-centered">
+        <div class="modal-content bg-transparent text-white text-center">
+            <img src="img/conocenos/12.JPG" alt="">
+            <p>Interior del Edificio T</p>
+        </div>
+    </div>
+</div>
+
+<div tabindex="-1" aria-labelledby="modalImage13" aria-hidden="true" class="modal fade" id="modalImage13">
+    <div class="modal-dialog modal-lg modal-dialog-centered">
+        <div class="modal-content bg-transparent text-white text-center">
+            <img src="img/conocenos/13.JPG" alt="">
+            <p>Edificio T: Edificio de Ingeniería Electrónica</p>
+        </div>
+    </div>
+</div>
+
+<div tabindex="-1" aria-labelledby="modalImage14" aria-hidden="true" class="modal fade" id="modalImage14">
+    <div class="modal-dialog modal-lg modal-dialog-centered">
+        <div class="modal-content bg-transparent text-white text-center">
+            <img src="img/conocenos/14.JPG" alt="">
             <p>Interior del edificio T (Planta alta)</p>
         </div>
     </div>

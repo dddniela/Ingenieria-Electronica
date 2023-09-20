@@ -638,3 +638,7 @@
 .shadow-text {
   text-shadow: 2px 2px 10px black;
 }
+
+.small-image {
+  max-width: 50%; /* Ajusta el valor según tu preferencia para controlar el tamaño de la imagen */
+}
