@@ -22,7 +22,7 @@ $jefeDepartamento =  $administrativos->getJefeDepartamento();
 </div>
 <!-- Fin Portada-->
 
-<!-- Departamento de Sistemas -->
+<!-- Departamento -->
 <div class="bg-primary pt-5"></div>
 <section class="lightSection bg-light">
   <div class="row px-2 g-0">
@@ -347,7 +347,6 @@ $jefeDepartamento =  $administrativos->getJefeDepartamento();
     <div class="modal-dialog modal-sm modal-dialog-centered">
         <div class="modal-content bg-transparent text-white text-center">
             <img src="img/conocenos/5.JPG" alt="">
-            <p>Logo del Instituto Tecnológico de México Veracruz</p>
         </div>
     </div>
 </div>
@@ -356,7 +355,6 @@ $jefeDepartamento =  $administrativos->getJefeDepartamento();
     <div class="modal-dialog modal-lg modal-dialog-centered">
         <div class="modal-content bg-transparent text-white text-center">
             <img src="img/conocenos/6.JPG" alt="">
-            <p>Estatua Venus</p>
         </div>
     </div>
 </div>
@@ -374,7 +372,6 @@ $jefeDepartamento =  $administrativos->getJefeDepartamento();
     <div class="modal-dialog modal-lg modal-dialog-centered">
         <div class="modal-content bg-transparent text-white text-center">
             <img src="img/conocenos/7.JPG" alt="">
-            <p>Sala de circuitos</p>
         </div>
     </div>
 </div>
@@ -383,7 +380,6 @@ $jefeDepartamento =  $administrativos->getJefeDepartamento();
     <div class="modal-dialog modal-lg modal-dialog-centered">
         <div class="modal-content bg-transparent text-white text-center">
             <img src="img/conocenos/8.JPG" alt="">
-            <p>Salón ubicado en el edificio B</p>
         </div>
     </div>
 </div>
@@ -392,7 +388,6 @@ $jefeDepartamento =  $administrativos->getJefeDepartamento();
     <div class="modal-dialog modal-lg modal-dialog-centered">
         <div class="modal-content bg-transparent text-white text-center">
             <img src="img/conocenos/9.JPG" alt="">
-            <p>Interior del edificio T (Planta Baja)</p>
         </div>
     </div>
 </div>
@@ -401,7 +396,6 @@ $jefeDepartamento =  $administrativos->getJefeDepartamento();
     <div class="modal-dialog modal-lg modal-dialog-centered">
         <div class="modal-content bg-transparent text-white text-center">
             <img src="img/conocenos/10.JPG" alt="">
-            <p>Placa del laboratorio de Ingeniería Electrónica</p>
         </div>
     </div>
 </div>
@@ -410,7 +404,6 @@ $jefeDepartamento =  $administrativos->getJefeDepartamento();
     <div class="modal-dialog modal-lg modal-dialog-centered">
         <div class="modal-content bg-transparent text-white text-center">
             <img src="img/conocenos/11.JPG" alt="">
-            <p>Edificio M</p>
         </div>
     </div>
 </div>
@@ -419,7 +412,6 @@ $jefeDepartamento =  $administrativos->getJefeDepartamento();
     <div class="modal-dialog modal-lg modal-dialog-centered">
         <div class="modal-content bg-transparent text-white text-center">
             <img src="img/conocenos/12.JPG" alt="">
-            <p>Interior del Edificio T</p>
         </div>
     </div>
 </div>
@@ -428,7 +420,6 @@ $jefeDepartamento =  $administrativos->getJefeDepartamento();
     <div class="modal-dialog modal-lg modal-dialog-centered">
         <div class="modal-content bg-transparent text-white text-center">
             <img src="img/conocenos/13.JPG" alt="">
-            <p>Edificio T: Edificio de Ingeniería Electrónica</p>
         </div>
     </div>
 </div>
@@ -436,8 +427,7 @@ $jefeDepartamento =  $administrativos->getJefeDepartamento();
 <div tabindex="-1" aria-labelledby="modalImage14" aria-hidden="true" class="modal fade" id="modalImage14">
     <div class="modal-dialog modal-lg modal-dialog-centered">
         <div class="modal-content bg-transparent text-white text-center">
-            <img src="img/conocenos/14.JPG" alt="">
-            <p>Interior del edificio T (Planta alta)</p>
+            <img src="img/conocenos/14.JPG" alt="">           
         </div>
     </div>
 </div>
@@ -449,6 +439,11 @@ $jefeDepartamento =  $administrativos->getJefeDepartamento();
 <div class="p-4 text-center">
   <h5 class="font-bold">Autores de la página:</h5>
   <p class="font-semibold">Estudiantes de la Generación 2018 - 2023</p>
-  <p>Daniela Castro Rodriguez, Nancy Daniela Mendez Arpidez, Marco Gabriel Cortés Toledo,
-    Yelitza Magali Rosas Jiménez, Eric Manuel Montalvo Cruz y Gabriel Escobar Medina</p>
+  <p>Yelitza Magali Rosas Jiménez, Daniela Castro Rodriguez, Nancy Daniela Mendez Arpidez, Marco Gabriel Cortés Toledo,
+     y Gabriel Escobar Medina</p>
+</div>
+
+<div class="p-1 text-center">
+  <p class="font-semibold">Agradecimientos</p>
+  <p>Eric Manuel Montalvo Cruz, Ivan Agame Malpica y Fernando Martinez</p>
 </div>
