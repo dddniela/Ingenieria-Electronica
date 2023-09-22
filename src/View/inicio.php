@@ -278,7 +278,7 @@
   <div class="sectionSeparator"></div>
 
   <!-- Row que contiene los enlaces -->
-  <div class="row g-0">
+  <div class="row g-0 justify-content-center">
 
    <!-- Primer enlace -->
     <div class="col-lg-4 col-sm-6 text-center p-3">
@@ -301,14 +301,14 @@
     </div>
 
     <!-- Tercer enlace -->
-    <div class="col-lg-4 col-sm-6 text-center p-3">
+   <!-- <div class="col-lg-4 col-sm-6 text-center p-3">
       <div class="area shadow-sm p-4 rounded-3">
         <a href="?option=5">
           <img class="img-fluid w-90 shadow-1-strong rounded mb-4  p-1" src="img/comunidad.webp" alt="">
         </a>
         <h3 class="areaTitle text-center font-bold text-xl">Comunidades</h3>
       </div>
-    </div>
+    </div>-->
 
     
 
@@ -389,7 +389,7 @@
       </div>
     </div>
   </div>
-  <div class="row g-0">
+ <!-- <div class="row g-0">
     <h4 class="sectionTitle  text-center font-bold">Departamento de Ingeniería Eléctrica - Electrónica</h4>
     <div class="d-flex flex-row justify-content-center">
       <a class="mx-2" href="https://www.facebook.com/profile.php?id=100065327956621" target="_blank"
@@ -397,7 +397,7 @@
         <div class="d-flex flex-row justify-content-center">
           <img class="img-fluid shadow-1-strong rounded mb-4 p-1" style="width: 40px" src="img/iconos/facebook.PNG"
             alt="">
-        </div>
+        </div> -->
       </a>
    <!--   <a class="mx-2" href="https://www.youtube.com/channel/UCYSUOZ6V9YRGviVvwaXOcjw" target="_blank"
           style="text-decoration: none;">
