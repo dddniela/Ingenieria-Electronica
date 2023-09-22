@@ -12,50 +12,39 @@
 </div>
 <!-- Fin Portada-->
 
+
 <!-- Objetivo general -->
 <section class="p-2">
-    <div class="row px-2 g-0">
-        <div class="col-lg-6 col-sm-12">
-            <div class="galleryContainer bg-light">
-                <div class="row g-0">
-                    <div class="col-4 px-2">
-                        <img class="img-fluid w-100 shadow-1-strong rounded m-2" src="img/perfilEgreso/est1.jpg" alt="">
-                        <img class="img-fluid w-100 shadow-1-strong rounded m-2" src="img/perfilEgreso/est2.jpg" alt="">
-                    </div>
-
-                    <div class="col-4 px-2">
-                        <img class="img-fluid w-100 shadow-1-strong rounded m-2" src="img/perfilEgreso/est3.jpg" alt="">
-                        <img class="img-fluid w-100 shadow-1-strong rounded m-2" src="img/perfilEgreso/est4.jpg" alt="">
-                    </div>
-
-                    <div class="col-4 px-2">
-                        <img class="img-fluid w-100 shadow-1-strong rounded m-2" src="img/perfilEgreso/est5.jpg" alt="">
-                        <img class="img-fluid w-100 shadow-1-strong rounded m-2" src="img/perfilEgreso/est6.jpg" alt="">
-                    </div>
-
-                </div>
-            </div>
-        </div>
-
-        <div class="lightSection col-lg-6 col-12 p-4">
-            <div class="d-flex justify-content-center align-items-center w-100 h-100">
-                <div class="row g-0">
-                    <div class="col-12">
-                        <h2 class="sectionTitle text-center font-bold m-3">Objetivo general</h2>
-                        <div class="sectionSeparator"></div>
-                    </div>
-                    <div class="col-12" style="text-align: center;">
-                        <p style="text-align: justify;"> Formar profesionistas competentes para diseñar, modelar, implementar, operar, integrar, mantener, 
-                            instalar y administrar sistemas electrónicos; así como innovar y transferir tecnología electrónica 
-                            existente y emergente en proyectos interdisciplinarios y multidisciplinarios, a nivel nacional e 
-                            internacional, con capacidad de resolver problemas y atender las necesidades de su entorno con ética, 
-                            actitud analítica, emprendedora y creativa, comprometidos con el desarrollo sustentable.
-                        </p>
-                    </div>
-                </div>
-            </div>
-        </div>
+  <div class="row px-2 g-0">
+    <!-- Columna de la izquierda con una imagen -->
+    <div class="col-lg-6 col-12 p-2 shadow-sm">
+      <div class="d-flex justify-content-center align-items-center w-100 h-100">
+        <img class="img-fluid rounded" src="img/pEgreso.jpg" alt="">
+      </div>
     </div>
+    <!-- Columna de la derecha con texto explicativo -->
+    <div class="lightSection col-lg-6 col-12 p-4">
+      <div class="d-flex justify-content-center align-items-center w-100 h-100">
+        <div class="row g-0">
+          <div class="col-12">
+            <!-- Título de la sección -->
+            <h2 class="sectionTitle text-center font-bold m-3">Objetivo general</h2>
+            <div class="sectionSeparator"></div>
+          </div>
+          <div class="col-12" style="text-align: center;">
+          <!-- Párrafo de texto justificado que explica las razones -->
+            <p style="text-align: justify;"> 
+            Formar profesionistas competentes para diseñar, modelar, implementar, operar, integrar, mantener, 
+            instalar y administrar sistemas electrónicos; así como innovar y transferir tecnología electrónica 
+            existente y emergente en proyectos interdisciplinarios y multidisciplinarios, a nivel nacional e 
+            internacional, con capacidad de resolver problemas y atender las necesidades de su entorno con ética, 
+            actitud analítica, emprendedora y creativa, comprometidos con el desarrollo sustentable.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
 </section>
 <!--Fin Objetivo general -->
 

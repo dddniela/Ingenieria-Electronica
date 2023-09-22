@@ -14,7 +14,7 @@
         <div class="container">
           <div class="carousel-caption d-flex flex-column">
             <h1 class="mainTitle text-center font-bold m-2 shadow-text">Ingeniería Electrónica</h1>
-            <h2 class="mainSubtitle text-center font-bold shadow-text">Desarrolla nuevos horizontes</h1>
+            <h2 class="mainSubtitle text-center font-bold shadow-text">Conoce nuevos horizontes</h1>
               <p><a class="mainButton btn font-bold d-none d-md-inline-flex" href="?option=3">Explorar</a>
               </p>
           </div>
@@ -22,7 +22,7 @@
       </div>
 
       <div class="carousel-item">
-        <img src="img/carrusel2.jpg" class="d-block w-100 align-middle" width="100%" height="100%">
+        <img src="img/paloque.jpg" class="d-block w-100 align-middle" width="100%" height="100%">
         <div class="container">
           <div class="carousel-caption">
             <h1 class="mainTitle text-center font-bold m-2 shadow-text">Ingeniería Electrónica</h1>
@@ -33,11 +33,11 @@
       </div>
 
       <div class="carousel-item">
-        <img src="img/carrusel3.jpg" class="d-block w-100 align-middle" width="100%" height="100%">
+        <img src="img/galeria1.JPG" class="d-block w-100 align-middle" width="100%" height="100%">
         <div class="container">
           <div class="carousel-caption">
             <h1 class="mainTitle text-center font-bold m-2 shadow-text">Ingeniería Electrónica</h1>
-            <h2 class="mainSubtitle text-center font-bold d-none d-md-inline-flex shadow-text">Colabora con la comunidad</h1>
+            <h2 class="mainSubtitle text-center font-bold d-none d-md-inline-flex shadow-text">Desarrolla proyectos</h1>
             <p><a class="mainButton btn font-bold d-none d-md-inline-flex" href="?option=5">Explorar</a></p>
           </div>
         </div>
