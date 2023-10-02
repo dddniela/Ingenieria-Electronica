@@ -354,6 +354,7 @@ $reticula = $seccion->imprimirBotonReticula();
 
         </div>
     </section>
+</div>
 <!--Fin Desarrollo profesional -->
 
 <!-- Actividades complementarias -->
@@ -441,6 +442,7 @@ $reticula = $seccion->imprimirBotonReticula();
 
     </div>
 </section>
+</div>
 <!--Fin Servicio social -->
 
 <!-- Residencias profesionales -->
@@ -590,6 +592,7 @@ $reticula = $seccion->imprimirBotonReticula();
 
     </div>
 </section>
+</div>
 <!--Fin Tutorías -->
 
 <!-- Cursos de verano -->
@@ -746,9 +749,6 @@ $reticula = $seccion->imprimirBotonReticula();
                     </div>
                 </div>
             </div>
-
-
-
         </div>
     </section>
 </div>
