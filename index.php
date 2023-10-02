@@ -17,6 +17,8 @@ $urlControl = array(
 
 // ID de la carrera
 $programaId = 10;
+$api = 'http://localhost:3010';
+$PATH_DOCENTE =  $GLOBALS['api'] . '/imagenes/Ing-Electronica/docentes/';
 
 // Se crea una instancia de la clase Conexion
 $conn = new Conexion();

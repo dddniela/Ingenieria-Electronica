@@ -62,7 +62,7 @@
     <!-- Columna de la izquierda con una imagen -->
     <div class="col-lg-6 col-12 p-2 shadow-sm">
       <div class="d-flex justify-content-center align-items-center w-100 h-100">
-        <img class="img-fluid rounded" src="img/electronica.jpg" alt="">
+        <img class="img-fluid rounded" src="img/electronica.JPG" alt="">
       </div>
     </div>
     <!-- Columna de la derecha con texto explicativo -->
@@ -226,22 +226,22 @@
       <div class="galleryContainer bg-light">
         <div class="row g-0">
           <div class="col-4 px-2">
-            <img class="img-fluid w-100 shadow-1-strong rounded m-2" src="img/Docentes/blancaIrisZarateSantiago.jpg"
+            <img class="img-fluid w-100 shadow-1-strong rounded m-2" src="img/docentes/blancaIrisZarateSantiago.jpg"
               alt="">
             <img class="img-fluid w-100 shadow-1-strong rounded m-2"
-              src="img/Docentes-Electro/Doce2.jpg" alt="">
+              src="img/d-Electro/joseAgustinColinaTorres.jpg" alt="">
           </div>
 
           <div class="col-4 px-2">
-            <img class="img-fluid w-100 shadow-1-strong rounded m-2" src="img/Docentes/joseDeJesusRomeroCastro.jpg"
+            <img class="img-fluid w-100 shadow-1-strong rounded m-2" src="img/d/joseDeJesusRomeroCastro.jpg"
               alt="">
-            <img class="img-fluid w-100 shadow-1-strong rounded m-2" src="img/Docentes/joseLuisFernandoPalomequeLoyo.jpg" alt="">
+            <img class="img-fluid w-100 shadow-1-strong rounded m-2" src="img/d/joseLuisFernandoPalomequeLoyo.jpg" alt="">
           </div>
 
           <div class="col-4 px-2">
-            <img class="img-fluid w-100 shadow-1-strong rounded m-2" src="img/Docentes/miguelAngelPerezSubeldia.jpg"
+            <img class="img-fluid w-100 shadow-1-strong rounded m-2" src="img/d/miguelAngelPerezSubeldia.jpg"
               alt="">
-            <img class="img-fluid w-100 shadow-1-strong rounded m-2" src="img/Docentes/luisEduardoRodriguezMota.jpg"
+            <img class="img-fluid w-100 shadow-1-strong rounded m-2" src="img/d/luisEduardoRodriguezMota.jpg"
               alt="">
           </div>
 

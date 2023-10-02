@@ -260,7 +260,7 @@
 
                     <div class="col-md-4 px-2">
                         <a href="#!" data-bs-toggle="modal" data-bs-target="#modalImage7">
-                            <img class="img-fluid w-100 shadow-1-strong rounded mb-4" src="img/perfilEgreso/PlacaIntT.jpg" alt="">
+                            <img class="img-fluid w-100 shadow-1-strong rounded mb-4" src="img/perfilEgreso/PlacaIntT.JPG" alt="">
                         </a>
                         <a href="#!" data-bs-toggle="modal" data-bs-target="#modalImage8">
                             <img class="img-fluid w-100 shadow-1-strong rounded mb-4" src="img/perfilEgreso/edificioM.jpg" alt="">
@@ -354,7 +354,7 @@
 <div tabindex="-1" aria-labelledby="modalImage7" aria-hidden="true" class="modal fade" id="modalImage7">
     <div class="modal-dialog modal-lg modal-dialog-centered">
         <div class="modal-content bg-transparent text-white text-center">
-            <img src="img/perfilEgreso/PlacaIntT.jpg" alt="">
+            <img src="img/perfilEgreso/PlacaIntT.JPG" alt="">
             <p>Placa del laboratorio de Ingeniería Electrónica</p>
         </div>
     </div>
