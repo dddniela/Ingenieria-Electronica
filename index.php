@@ -19,6 +19,7 @@ $urlControl = array(
 $programaId = 10;
 $api = 'http://localhost:3010';
 $PATH_DOCENTE =  $GLOBALS['api'] . '/imagenes/Ing-Electronica/docentes/';
+$PATH_COMUNIDAD =  $GLOBALS['api'] . '/imagenes/Ing-Electronica/comunidades/';
 
 // Se crea una instancia de la clase Conexion
 $conn = new Conexion();
