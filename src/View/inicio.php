@@ -137,7 +137,7 @@ $docenteImagen6 = 'data:image/' . $type . ';base64,' . base64_encode($docenteIma
     <div class="col-lg-4 col-sm-6 text-center p-3">
       <div class="area shadow-sm p-4">
         <a href="?option=3.php">
-          <img class="areaImage items-center" src="img/icoElectro/ico1-ElectroAnalogica.PNG" alt="">
+          <img class="areaImage items-center" src="img/icoElectro/ico1-ElectroAnalogica.png" alt="">
         </a>
         <h3 class="areaTitle text-center font-bold text-xl">Electrónica analógica</h3>
         <p class="areaText">Estudio de los circuitos y dispositivos electrónicos que operan con
@@ -148,7 +148,7 @@ $docenteImagen6 = 'data:image/' . $type . ';base64,' . base64_encode($docenteIma
     <div class="col-lg-4 col-sm-6 text-center p-3">
       <div class="area shadow-sm p-4">
         <a href="?option=3">
-          <img class="areaImage items-center" src="img/icoElectro/ico2-circuitoElectrico.PNG" alt="">
+          <img class="areaImage items-center" src="img/icoElectro/ico2-circuitoElectrico.png" alt="">
         </a>
         <h3 class="areaTitle text-center font-bold text-xl">Electrónica digital</h3>
         <p class="areaText">Diseño y análisis de sistemas digitales, incluyendo lógica digital,
@@ -159,7 +159,7 @@ $docenteImagen6 = 'data:image/' . $type . ';base64,' . base64_encode($docenteIma
     <div class="col-lg-4 col-sm-6 text-center p-3">
       <div class="area shadow-sm p-4">
         <a href="?option=3.php">
-          <img class="areaImage items-center" src="img/icoElectro/ico3-comunicaciones.PNG" alt="">
+          <img class="areaImage items-center" src="img/icoElectro/ico3-comunicaciones.png" alt="">
         </a>
         <h3 class="areaTitle text-center font-bold text-xl">Comunicaciones</h3>
         <p class="areaText">
@@ -171,7 +171,7 @@ $docenteImagen6 = 'data:image/' . $type . ';base64,' . base64_encode($docenteIma
     <div class="col-lg-4 col-sm-6 text-center p-3">
       <div class="area shadow-sm p-4">
         <a href="?option=3">
-          <img class="areaImage items-center" src="img/icoElectro/ico4-micro.PNG" alt="">
+          <img class="areaImage items-center" src="img/icoElectro/ico4-micro.png" alt="">
         </a>
         <h3 class="areaTitle text-center font-bold text-xl">Microelectrónica</h3>
         <p class="areaText">Estudio de los circuitos y dispositivos electrónicos a pequeña escala,
@@ -182,7 +182,7 @@ $docenteImagen6 = 'data:image/' . $type . ';base64,' . base64_encode($docenteIma
     <div class="col-lg-4 col-sm-6 text-center p-3">
       <div class="area shadow-sm p-4">
         <a href="?option=3">
-          <img class="areaImage items-center" src="img/icoElectro/ico5-instrumentacion.PNG" alt="">
+          <img class="areaImage items-center" src="img/icoElectro/ico5-instrumentacion.png" alt="">
         </a>
         <h3 class="areaTitle text-center font-bold text-xl">Instrumentación</h3>
         <p class="areaText">Diseño de instrumentos y sistemas de medición electrónica para investigación
@@ -193,7 +193,7 @@ $docenteImagen6 = 'data:image/' . $type . ';base64,' . base64_encode($docenteIma
     <div class="col-lg-4 col-sm-6 text-center p-3">
       <div class="area shadow-sm p-4">
         <a href="?option=3">
-          <img class="areaImage items-center" src="img/icoElectro/ico6-electromagnetismo.PNG" alt="">
+          <img class="areaImage items-center" src="img/icoElectro/ico6-electromagnetismo.png" alt="">
         </a>
         <h3 class="areaTitle text-center font-bold text-xl">Electromagnetismo</h3>
         <p class="areaText">
