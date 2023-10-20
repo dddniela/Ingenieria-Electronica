@@ -65,7 +65,7 @@ $docenteImagen6 = 'data:image/' . $type . ';base64,' . base64_encode($docenteIma
       </div>
 
       <div class="carousel-item">
-        <img src="img/galeria1.JPG" class="d-block w-100 align-middle" width="100%" height="100%">
+        <img src="img/galeria1.jpg" class="d-block w-100 align-middle" width="100%" height="100%">
         <div class="container">
           <div class="carousel-caption">
             <h1 class="mainTitle text-center font-bold m-2 shadow-text">Ingeniería Electrónica</h1>
